@@ -1,7 +1,6 @@
 <template>
-    <div class="bg-black text-white font-sans">
-        <NuxtPage />
-    </div>
+  <main class="bg-black text-white font-sans">
+    <NuxtPage />
+  </main>
 </template>
-<script setup>
-</script>
+<script setup></script>
