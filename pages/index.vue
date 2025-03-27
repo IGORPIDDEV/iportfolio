@@ -1,3 +1,9 @@
 <template>
-  <div class="bg-slate-600">index</div>
+  <div>
+    <Hero />
+    <About />
+    <Skills />
+    <Projects />
+    <Contacts />
+  </div>
 </template>
